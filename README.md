@@ -57,7 +57,7 @@ Usage example-
   python main.py
 ```
 
-Check all the available command line arguments in main.py file.
+Check all the available command line arguments in main.py file. Please note that for a detailed code walk through refer to the colab notebook **ViT_CIFAR10_Pytorch.ipynb**. Corresponding modular code scripts are present in the **src** folder.
 
 ### Key learning from this implementation exercise- 
 1. #### A working understanding of how to downscale large models for smaller dataset. 
